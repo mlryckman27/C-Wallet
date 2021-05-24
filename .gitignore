@@ -1,2 +1,5 @@
 wallet.o
 wallet
+test.c
+test.o
+test
